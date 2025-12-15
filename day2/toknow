@@ -1,0 +1,47 @@
+/* GLOBAL */
+body {
+  background-color: #1f1f1f;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, label {
+  color: white;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #000;
+}
+
+/* HEADER */
+.page-header {
+  background-color: #2b2b2b;
+}
+
+/* DARK SECTIONS */
+.dark-section {
+  background-color: #2b2b2b;
+}
+
+/* CARDS */
+.card {
+  background-color: #2a2a2a;
+  color: white;
+  border: none;
+}
+
+.contact-card {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* BUTTON */
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+/* FOOTER */
+footer {
+  background-color: #000;
+}
